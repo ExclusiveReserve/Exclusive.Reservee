@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.exclusivereservee.com/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+```
+
+4. Clic en **"Commit changes"**
+
+Luego en Google Search Console pon la URL del sitemap como:
+```
+https://www.exclusivereservee.com/sitemap.xml
